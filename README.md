@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B8BF5&center=true&vCenter=true&width=650&lines=Building+AI-native+products+end-to-end;Full-Stack+Engineer+%2B+Applied+ML;Turning+unstructured+chaos+into+structured+systems;Currently%3A+CS+%40+FIU+Honors+%7C+GPA+3.98)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B8BF5&center=true&vCenter=true&width=650&lines=Integrating+AI+into+real+products;Full+Stack+Engineer+%2B+AI+Systems+Builder;Turning+unstructured+data+into+automated+workflows;Future+AI+Engineer+and+Entrepreneur)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,19 +20,21 @@
 
 ## Profile
 
-I'm a Computer Science student (Honors College, Business minor, 3.98 GPA) at Florida International University, building products at the intersection of **full-stack engineering** and **applied AI**. I care about shipping systems that hold up in production — not just prototypes that demo well once.
+I am a Computer Science student at Florida International University Honors College, studying with a Business minor and a 3.98 GPA. My goal is to become an AI engineer and entrepreneur, and I want to help businesses integrate AI and automation systems across different sectors.
 
-My work spans client-facing web platforms, agentic AI workflow tools built on Google's ADK and Gemini, and backend systems designed for real data at real scale. Recently I've been leading enterprise AI training for technical and non-technical stakeholders — translating model capability into business value.
+I build products where full stack engineering meets applied AI. I care about creating systems that hold up in the real world, not just prototypes that look good once.
+
+My work covers client facing web platforms, AI agent workflows built on Google ADK and Gemini, and backend systems designed for real data at real scale. I focus on integrating AI models into products and automating business processes with them. I recently led AI training sessions for technical and non technical teams, helping them see how AI can create real business value.
 
 <br/>
 
 ## Currently
 
 ```txt
-→  Leading enterprise AI workshops & adoption strategy @ GS1
-→  Deepening ML foundations — supervised/unsupervised models, PyTorch, feature engineering
-→  Exploring agent orchestration patterns (Google ADK, A2A protocol, multi-agent workflows)
-→  Preparing for SWE / Applied ML internships — Summer 2027
+→  Leading AI workshops and adoption strategy at GS1
+→  Applying AI models to real business workflows through integration and automation
+→  Exploring agent orchestration with Google ADK, the A2A protocol, and multi agent workflows
+→  Preparing for software engineering and applied AI internships in Summer 2027
 ```
 
 <br/>
@@ -44,11 +46,11 @@ My work spans client-facing web platforms, agentic AI workflow tools built on Go
 <td width="50%" valign="top">
 
 ### 🗂️ Morganizer
-**AI-powered legal workflow assistant** — KnightHacks 2025
+**AI powered legal workflow assistant**, built at KnightHacks 2025
 
-Parses unstructured client communications and auto-classifies them into actionable, agent-routed tasks with a human-in-the-loop validation layer.
+This tool reads unstructured client messages and automatically sorts them into clear, actionable tasks. It includes a human in the loop step so people can review and approve every AI decision.
 
-**Problem it solves:** legal teams lose hours triaging messy inbound correspondence manually.
+This project helps legal teams save the hours they usually spend sorting messy client communication by hand.
 
 `Python` `Flask` `Google ADK` `Gemini API` `A2A Protocol`
 
@@ -56,11 +58,11 @@ Parses unstructured client communications and auto-classifies them into actionab
 <td width="50%" valign="top">
 
 ### ✉️ SnapShell
-**AI email assistant** — ShellHacks 2025 · *Google Cloud & Assurant Challenge*
+**AI email assistant**, built at ShellHacks 2025 for the Google Cloud and Assurant Challenge
 
-Chrome extension that sorts, summarizes, and drafts email replies entirely client-side using Gemini 2.5 Flash — no backend, no data leaving the browser.
+This Chrome extension sorts, summarizes, and drafts email replies right inside the browser using Gemini 2.5 Flash. Everything runs on the client side, so no data ever leaves the browser.
 
-**Problem it solves:** inbox overload, without sacrificing data privacy.
+This project helps people manage inbox overload while keeping their data private.
 
 `JavaScript` `Google ADK` `Gemini 2.5 Flash` `Chrome APIs`
 
@@ -69,12 +71,12 @@ Chrome extension that sorts, summarizes, and drafts email replies entirely clien
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 RenArc Group — Production Website
-**Full-stack business platform**, designed & shipped solo
+### 🌐 RenArc Group Production Website
+**Full stack business platform**, designed and shipped solo
 
-Responsive front-end with a Flask backend handling real-time form routing, dual submission workflows, and an internal admin panel for client operations.
+I built a responsive front end paired with a Flask backend that handles real time form routing, dual submission workflows, and an internal admin panel for client operations.
 
-**Problem it solves:** manual client intake was slowing the business down.
+This project replaced a slow, manual client intake process with an automated system.
 
 `HTML/CSS` `JavaScript` `Bootstrap` `Tailwind` `Flask`
 
@@ -82,11 +84,11 @@ Responsive front-end with a Flask backend handling real-time form routing, dual 
 <td width="50%" valign="top">
 
 ### 📚 Library Management System
-**Backend-focused system** — Software Engineering I
+**Backend focused system**, built for Software Engineering I
 
-Java/Spring Boot backend with ISBN lookup, author search, and a ratings/comments layer built beyond the base spec, backed by PostgreSQL.
+I used Java and Spring Boot to build ISBN lookup, author search, and a full ratings and comments feature beyond the original assignment, all backed by PostgreSQL.
 
-**Problem it solves:** demonstrates clean API + data-modeling fundamentals.
+This project shows clean API design and solid data modeling skills.
 
 `Java` `Spring Boot` `PostgreSQL` `Postman`
 
@@ -96,7 +98,7 @@ Java/Spring Boot backend with ISBN lookup, author search, and a ratings/comments
 
 <div align="center">
 
-**Personal Portfolio** — modular, responsive site hosted on GitHub Pages · `HTML` `CSS` `JS` `Bootstrap` → [lukavarazi.github.io](https://lukavarazi.github.io)
+**Personal Portfolio**, a modular and responsive site hosted on GitHub Pages, built with `HTML` `CSS` `JS` `Bootstrap`. Visit it at [lukavarazi.github.io](https://lukavarazi.github.io)
 
 </div>
 
@@ -110,7 +112,7 @@ Java/Spring Boot backend with ISBN lookup, author search, and a ratings/comments
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
 **Frontend**
 <br/>
@@ -123,9 +125,9 @@ Java/Spring Boot backend with ISBN lookup, author search, and a ratings/comments
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,spring" />
 
-**AI / ML**
+**AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,py" /> &nbsp; Google ADK · Gemini API · Pandas · NumPy
+<img src="https://skillicons.dev/icons?i=py" /> &nbsp; Google ADK · Gemini API · Agent Orchestration · Pandas
 
 </td>
 <td valign="top" width="33%">
@@ -146,10 +148,10 @@ Jupyter · Matplotlib/Seaborn · REST APIs · Agent Orchestration
 
 ## AI Systems Experience
 
-- **Agentic workflow design** — built multi-step task classification and routing pipelines using Google's ADK and the A2A protocol
-- **Applied ML coursework** — regression, classification, clustering, and tree-based models; full EDA-to-evaluation pipeline in PyTorch and Scikit-Learn
-- **AI enablement** — designed and delivered internal training at GS1 translating LLM capabilities into workflow-level business impact for non-technical teams
-- **Privacy-conscious AI product design** — shipped a fully client-side Gemini integration (SnapShell) with zero backend data exposure
+- I designed multi step agent workflows using Google ADK and the A2A protocol to classify and route tasks automatically
+- I integrate AI models like Gemini into real products, connecting them to backends, browsers, and business workflows
+- I led AI enablement training at GS1, helping non technical teams understand how large language models can create real workflow impact
+- I designed a privacy focused AI product by building SnapShell entirely on the client side with zero backend data exposure
 
 <br/>
 
@@ -158,17 +160,18 @@ Jupyter · Matplotlib/Seaborn · REST APIs · Agent Orchestration
 | Role | Organization | Impact |
 |---|---|---|
 | AI Workshop & Presentation Lead | GS1 | Designed and led AI adoption training across leadership and technical staff |
-| Team Lead | ShellHacks 2025 | Directed a 4-person team from concept to demo in 36 hours; presented to Google Cloud & Assurant judges |
+| Team Lead | ShellHacks 2025 | Directed a four person team from concept to demo in 36 hours and presented to Google Cloud and Assurant judges |
 | Peer Mentor | Florida International University | Guided incoming students through onboarding, logistics, and academic transition |
 
 <br/>
 
 ## Education
 
-**Florida International University** — Honors College
-B.S. Computer Science, Minor in Business · GPA 3.98 · Expected Spring 2027
-Dean's List ×3 · Gold & Blue Scholarship
-Coursework: AI, Machine Learning, Data Structures, Discrete Structures, Systems Programming, Computer Architecture
+**Florida International University, Honors College**
+
+Bachelor of Science in Computer Science with a Business minor. GPA 3.98. Expected graduation Spring 2027.
+Dean's List three times. Gold and Blue Scholarship recipient.
+Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Structures, Systems Programming, and Computer Architecture.
 
 <br/>
 
