@@ -2,11 +2,19 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=LUKA%20VARAZI&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=b8b8b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=LUKA%20VARAZI&fontSize=52&fontColor=00F5FF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=c9c9ff" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B8BF5&center=true&vCenter=true&width=650&lines=Integrating+AI+into+real+products;Full+Stack+Engineer+%2B+AI+Systems+Builder;Turning+unstructured+data+into+automated+workflows;Future+AI+Engineer+and+Entrepreneur)](https://git.io/typing-svg)
+```
+$ whoami
+> AI systems builder training to integrate AI and automation into real businesses
+> Status: online
+```
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Integrating+AI+into+real+products;Full+Stack+Engineer+%2B+AI+Systems+Builder;Turning+unstructured+data+into+automated+workflows;Future+AI+Engineer+and+Entrepreneur)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,6 +38,8 @@ My work covers client facing web platforms, AI agent workflows built on Google A
 
 ## Currently
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 ```txt
 →  Leading AI workshops and adoption strategy at GS1
 →  Applying AI models to real business workflows through integration and automation
@@ -40,6 +50,8 @@ My work covers client facing web platforms, AI agent workflows built on Google A
 <br/>
 
 ## Featured Work
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
 
 <table>
 <tr>
@@ -106,6 +118,8 @@ This project shows clean API design and solid data modeling skills.
 
 ## Technical Expertise
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -136,6 +150,8 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 
 ## AI Systems Experience
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 - I designed multi step agent workflows using Google ADK and the A2A protocol to classify and route tasks automatically
 - I integrate AI models like Gemini into real products, connecting them to backends, browsers, and business workflows
 - I led AI enablement training at GS1, helping non technical teams understand how large language models can create real workflow impact
@@ -144,6 +160,8 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 <br/>
 
 ## Leadership
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
 
 | Role | Organization | Impact |
 |---|---|---|
@@ -155,6 +173,8 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 
 ## Education
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 **Florida International University, Honors College**
 
 Bachelor of Science in Computer Science with a Business minor. GPA 3.98. Expected graduation Spring 2027.
@@ -165,14 +185,16 @@ Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Str
 
 ## GitHub Analytics
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukaVarazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF5&icon_color=8B8BF5"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukaVarazi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LukaVarazi&theme=tokyonight&hide_border=true&background=0d1117&ring=8B8BF5&fire=8B8BF5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LukaVarazi&theme=synthwave&hide_border=true&background=0d1117&ring=00F5FF&fire=B892FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LukaVarazi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B8BF5&line=8B8BF5&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LukaVarazi&theme=synthwave&hide_border=true&bg_color=0d1117&color=00F5FF&line=B892FF&point=ffffff"/>
 
 </div>
 
@@ -182,6 +204,8 @@ Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Str
 
 ## Let's Connect
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:B892FF&height=3" width="100%"/>
+
 <a href="https://linkedin.com/in/luka-varazi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/LukaVarazi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://lukavarazi.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -189,10 +213,10 @@ Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Str
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LukaVarazi&style=flat-square&color=8B8BF5&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=LukaVarazi&style=flat-square&color=00F5FF&label=Profile+Views"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
