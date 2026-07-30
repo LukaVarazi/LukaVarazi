@@ -166,7 +166,6 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 | Role | Organization | Impact |
 |---|---|---|
 | AI Workshop & Presentation Lead | GS1 | Designed and led AI adoption training across leadership and technical staff |
-| Team Lead | ShellHacks 2025 | Directed a four person team from concept to demo in 36 hours and presented to Google Cloud and Assurant judges |
 | Peer Mentor | Florida International University | Guided incoming students through onboarding, logistics, and academic transition |
 
 <br/>
@@ -190,7 +189,7 @@ Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Str
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LukaVarazi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=synthwave&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukaVarazi&theme=synthwave&hide_border=true&background=0d1117&ring=00F5FF&fire=B892FF"/>
 
