@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luka Varazi 👋</h1>
 
 <p align="center">
-Computer Science Student • AI Developer • Full Stack Developer
+Computer Science Student • AI Engineer • Full Stack Developer
 </p>
 
 <p align="center">
