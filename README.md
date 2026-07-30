@@ -123,7 +123,7 @@ This project shows clean API design and solid data modeling skills.
 
 **Backend & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,spring" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
 
 **AI**
 <br/>
