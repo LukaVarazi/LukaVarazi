@@ -178,6 +178,13 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 
 Bachelor of Science in Computer Science with a Business minor. GPA 3.98. Expected graduation Spring 2027.
 Dean's List three times. Gold and Blue Scholarship recipient.
+Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Structures, Systems Programming, and Computer Architecture.
+
+I chose the Business minor alongside Computer Science because I want to understand both sides of building AI products, the technical side and the business side. That combination shapes how I think about every project I take on, since I care as much about the problem a system solves for a business as I do about the code behind it.
+
+Beyond my coursework, I pushed further into AI on my own through the IBM Generative AI Engineering program, Andrew Ng's Machine Learning course through DeepLearning.ai, and CS50x from Harvard. These programs rounded out my formal education with a deeper, self driven understanding of how AI systems actually get built and deployed in the real world.
+
+The Honors College experience pushed me to hold myself to a higher standard, and three semesters on the Dean's List along with the Gold and Blue Scholarship reflect that consistency. As I head into my senior year, I am focused on turning everything I have learned into real products, real leadership experience, and a clear path toward becoming an AI engineer and entrepreneur.
 
 <br/>
 
