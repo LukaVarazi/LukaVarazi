@@ -108,37 +108,25 @@ This project shows clean API design and solid data modeling skills.
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Languages**
+**Languages & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery" />
+Java, Python, C, JS, HTML, CSS, Node.js, Express.js, Bootstrap, Tailwind CSS
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,nodejs,express,bootstrap,tailwind" />
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Backend & Data**
+**AI Kits & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
+Google ADK, Gemini API, A2A Protocol, Agent Orchestration
+<br/><br/>
 
-**AI**
+**Other Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=py" /> &nbsp; Google ADK · Gemini API · Agent Orchestration · Pandas
-
-</td>
-<td valign="top" width="33%">
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman" />
-
-**Workflow**
-<br/>
-Jupyter · Matplotlib/Seaborn · REST APIs · Agent Orchestration
+<img src="https://skillicons.dev/icons?i=flask,postgres,spring,git,github,vscode,idea,linux,postman" />
 
 </td>
 </tr>
