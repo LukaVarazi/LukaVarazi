@@ -178,7 +178,6 @@ Google ADK, Gemini API, A2A Protocol, Agent Orchestration
 
 Bachelor of Science in Computer Science with a Business minor. GPA 3.98. Expected graduation Spring 2027.
 Dean's List three times. Gold and Blue Scholarship recipient.
-Relevant coursework includes AI, Machine Learning, Data Structures, Discrete Structures, Systems Programming, and Computer Architecture.
 
 <br/>
 
