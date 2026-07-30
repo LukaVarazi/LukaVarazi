@@ -1,159 +1,207 @@
-<h1 align="center">Hi, I'm Luka Varazi 👋</h1>
+<div align="center">
 
-<p align="center">
-Computer Science Student • AI Engineer • Full Stack Developer
-</p>
+<br/>
 
-<p align="center">
-Building AI-powered applications, participating in hackathons, and constantly learning new technologies.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=LUKA%20VARAZI&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=b8b8b8" width="100%"/>
 
----
+<br/>
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8B8BF5&center=true&vCenter=true&width=650&lines=Building+AI-native+products+end-to-end;Full-Stack+Engineer+%2B+Applied+ML;Turning+unstructured+chaos+into+structured+systems;Currently%3A+CS+%40+FIU+Honors+%7C+GPA+3.98)](https://git.io/typing-svg)
 
-- 🎓 Computer Science student at Florida International University
-- 📚 Business Minor
-- 🏆 3.98 GPA | Honors Student | Dean's List
-- 💡 Passionate about Artificial Intelligence and Software Engineering
-- 🌎 Originally from Georgia 🇬🇪
-- 💻 Interested in AI Engineering, Full Stack Development, and Startup Building
+<br/>
 
----
+<a href="https://linkedin.com/in/luka-varazi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://lukavarazi.github.io"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:lukavarazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🛠 Tech Stack
+<br/><br/>
 
-### Languages
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Profile
 
-### Frameworks & Libraries
+I'm a Computer Science student (Honors College, Business minor, 3.98 GPA) at Florida International University, building products at the intersection of **full-stack engineering** and **applied AI**. I care about shipping systems that hold up in production — not just prototypes that demo well once.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+My work spans client-facing web platforms, agentic AI workflow tools built on Google's ADK and Gemini, and backend systems designed for real data at real scale. Recently I've been leading enterprise AI training for technical and non-technical stakeholders — translating model capability into business value.
 
-### AI
+<br/>
 
-- Google ADK
-- Gemini API
-- Prompt Engineering
-- LLM Applications
-- RAG Systems
+## Currently
 
-### Tools
+```txt
+→  Leading enterprise AI workshops & adoption strategy @ GS1
+→  Deepening ML foundations — supervised/unsupervised models, PyTorch, feature engineering
+→  Exploring agent orchestration patterns (Google ADK, A2A protocol, multi-agent workflows)
+→  Preparing for SWE / Applied ML internships — Summer 2027
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
----
+## Featured Work
 
-## 🏆 Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 SnapShell
-AI-powered Chrome Extension that drafts professional emails using Google's Agent Development Kit.
+### 🗂️ Morganizer
+**AI-powered legal workflow assistant** — KnightHacks 2025
 
-**Tech**
-- Python
-- Google ADK
-- Gemini
-- JavaScript
-- HTML/CSS
+Parses unstructured client communications and auto-classifies them into actionable, agent-routed tasks with a human-in-the-loop validation layer.
 
----
+**Problem it solves:** legal teams lose hours triaging messy inbound correspondence manually.
 
-### ⚖️ Morganizer
-AI legal workflow orchestrator built during KnightHacks.
+`Python` `Flask` `Google ADK` `Gemini API` `A2A Protocol`
 
-**Features**
-- AI Agents
-- Legal Document Processing
-- Task Automation
+</td>
+<td width="50%" valign="top">
 
----
+### ✉️ SnapShell
+**AI email assistant** — ShellHacks 2025 · *Google Cloud & Assurant Challenge*
 
-### 📄 AI Resume Helper
+Chrome extension that sorts, summarizes, and drafts email replies entirely client-side using Gemini 2.5 Flash — no backend, no data leaving the browser.
 
-An AI application that improves resumes using Google's Gemini models.
+**Problem it solves:** inbox overload, without sacrificing data privacy.
 
----
+`JavaScript` `Google ADK` `Gemini 2.5 Flash` `Chrome APIs`
 
-### 🏗 RenArc Group Website
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Designed and developed the company website for RenArc Group.
+### 🌐 RenArc Group — Production Website
+**Full-stack business platform**, designed & shipped solo
 
----
+Responsive front-end with a Flask backend handling real-time form routing, dual submission workflows, and an internal admin panel for client operations.
 
-## 📈 GitHub Stats
+**Problem it solves:** manual client intake was slowing the business down.
 
-<p align="center">
+`HTML/CSS` `JavaScript` `Bootstrap` `Tailwind` `Flask`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LukaVarazi&show_icons=true&theme=tokyonight"/>
+</td>
+<td width="50%" valign="top">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=tokyonight"/>
+### 📚 Library Management System
+**Backend-focused system** — Software Engineering I
 
-</p>
+Java/Spring Boot backend with ISBN lookup, author search, and a ratings/comments layer built beyond the base spec, backed by PostgreSQL.
 
----
+**Problem it solves:** demonstrates clean API + data-modeling fundamentals.
 
-## 🔥 GitHub Streak
+`Java` `Spring Boot` `PostgreSQL` `Postman`
 
-<p align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=LukaVarazi&theme=tokyonight"/>
+<div align="center">
 
-</p>
+**Personal Portfolio** — modular, responsive site hosted on GitHub Pages · `HTML` `CSS` `JS` `Bootstrap` → [lukavarazi.github.io](https://lukavarazi.github.io)
 
----
+</div>
 
-## 🌱 Currently Learning
+<br/>
 
-- Advanced React
-- Cloud Deployment
-- AI Agents
-- Machine Learning
-- AWS
-- Docker
+## Technical Expertise
 
----
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 🎯 2026 Goals
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,sql" />
 
-- 🚀 Land a Software Engineering Internship
-- 🤖 Build production AI applications
-- 🌐 Launch more open-source projects
-- 🏆 Win more hackathons
-- 📈 Contribute consistently on GitHub
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery" />
 
----
+</td>
+<td valign="top" width="33%">
 
-## 📫 Connect With Me
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,spring" />
 
-<p align="left">
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,py" /> &nbsp; Google ADK · Gemini API · Pandas · NumPy
 
-<a href="https://github.com/LukaVarazi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</td>
+<td valign="top" width="33%">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman" />
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+**Workflow**
+<br/>
+Jupyter · Matplotlib/Seaborn · REST APIs · Agent Orchestration
 
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-<p align="center">
-<i>"Always building something new."</i>
-</p>
+## AI Systems Experience
+
+- **Agentic workflow design** — built multi-step task classification and routing pipelines using Google's ADK and the A2A protocol
+- **Applied ML coursework** — regression, classification, clustering, and tree-based models; full EDA-to-evaluation pipeline in PyTorch and Scikit-Learn
+- **AI enablement** — designed and delivered internal training at GS1 translating LLM capabilities into workflow-level business impact for non-technical teams
+- **Privacy-conscious AI product design** — shipped a fully client-side Gemini integration (SnapShell) with zero backend data exposure
+
+<br/>
+
+## Leadership
+
+| Role | Organization | Impact |
+|---|---|---|
+| AI Workshop & Presentation Lead | GS1 | Designed and led AI adoption training across leadership and technical staff |
+| Team Lead | ShellHacks 2025 | Directed a 4-person team from concept to demo in 36 hours; presented to Google Cloud & Assurant judges |
+| Peer Mentor | Florida International University | Guided incoming students through onboarding, logistics, and academic transition |
+
+<br/>
+
+## Education
+
+**Florida International University** — Honors College
+B.S. Computer Science, Minor in Business · GPA 3.98 · Expected Spring 2027
+Dean's List ×3 · Gold & Blue Scholarship
+Coursework: AI, Machine Learning, Data Structures, Discrete Structures, Systems Programming, Computer Architecture
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LukaVarazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF5&icon_color=8B8BF5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVarazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8BF5"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LukaVarazi&theme=tokyonight&hide_border=true&background=0d1117&ring=8B8BF5&fire=8B8BF5"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LukaVarazi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B8BF5&line=8B8BF5&point=ffffff"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Let's Connect
+
+<a href="https://linkedin.com/in/luka-varazi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/LukaVarazi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://lukavarazi.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:lukavarazi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=LukaVarazi&style=flat-square&color=8B8BF5&label=Profile+Views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+</div>
