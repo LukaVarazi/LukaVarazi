@@ -65,10 +65,6 @@ GPA: **3.97** · Dean's List · Gold & Blue Scholarship
 
 <img src="https://streak-stats.demolab.com/?user=LukaVarazi&theme=synthwave&hide_border=true&background=0d1117&ring=00F5FF&fire=B892FF"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LukaVarazi&theme=synthwave&hide_border=true&bg_color=0d1117&color=00F5FF&line=B892FF&point=ffffff" width="95%"/>
-
 </div>
 
 ## Connect
