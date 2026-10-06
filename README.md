@@ -28,7 +28,7 @@ I build AI-powered products that connect models to real applications, workflows,
 | Project | What I built |
 |---|---|
 | **[Morganizer](https://github.com/LukaVarazi/KnightHacks-2025)** | AI legal workflow assistant using Flask, Google ADK, Gemini, and A2A. Classifies unstructured client messages and routes them into actionable tasks with human review. |
-| **[SnapShell](https://github.com/LukaVarazi/SnapShell)** | Privacy-focused Chrome extension that summarizes, classifies, and drafts email using Gemini. Designed around client-side processing. |
+| **SnapShell** | Privacy-focused Chrome extension that summarizes, classifies, and drafts email using Gemini. Designed around client-side processing. |
 | **RenArc Group** | Full-stack business platform with automated form workflows, client intake, and internal administration tools. |
 | **Library Management System** | Java/Spring Boot backend with PostgreSQL, ISBN lookup, author search, ratings, comments, and REST APIs. |
 
