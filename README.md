@@ -30,7 +30,7 @@ I build AI-powered products that connect models to real applications, workflows,
 |---|---|
 | **[Morganizer](https://github.com/LukaVarazi/KnightHacks-2025)** | AI legal workflow assistant using Flask, Google ADK, Gemini, and A2A. Classifies unstructured client messages and routes them into actionable tasks with human review. |
 | **[ResumeMasterAI](https://github.com/LukaVarazi/ResumeMasterAI)** | AI-powered resume platform designed to help users analyze, improve, and tailor resumes for job applications. |
-| **[SnapShell](https://github.com/LukaVarazi/vault-2.0)** | Privacy-focused Chrome extension that summarizes, classifies, and drafts email using Gemini. Designed around client-side processing. |
+| **[SnapShell]([https://github.com/LukaVarazi/vault-2.0](https://github.com/LukaVarazi/SnapShell))** | Privacy-focused Chrome extension that summarizes, classifies, and drafts email using Gemini. Designed around client-side processing. |
 
 ## Technical Stack
 
